@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "祝日",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-08T15:06:57.315632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "祝日",
+      "artist": "Ayano Kaneko",
+      "has_synced": true,
+      "path": "select/01_祝日_Ayano_Kaneko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "祝日",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/02_祝日_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "祝日",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_祝日_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "祝日",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/04_祝日_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "祝日",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_祝日_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祝日",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_祝日_カネコアヤノ.txt"
+    }
+  ]
+}
